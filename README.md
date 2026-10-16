@@ -1,6 +1,6 @@
 # TÜRK DİSCORD
 
-Türkçe, mobil uyumlu ve animasyonlu topluluk sohbeti. GitHub Pages arayüzü sunar; gerçek kullanıcı ve ortak veriler Supabase projesinde çalışır.
+Türkçe, mobil uyumlu ve animasyonlu topluluk sohbeti. GitHub Pages arayüzü sunar; gerçek kullanıcı ve ortak veriler Supabase projesinde çalışır!
 
 ## Etkin özellikler
 
